@@ -1,3 +1,5 @@
+<link rel="icon" type="image/x-icon" href="favicon_chaveiro.ico">
+
 # Chaveiro Paulistinha e Auto Vidros
 
 Site oficial do Chaveiro Paulistinha e Auto Vidros.
